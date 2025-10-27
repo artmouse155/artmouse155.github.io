@@ -1,6 +1,8 @@
 # About Me
 Hi there! My name's Chase, and I am brother, runner, and coder. I love spending time with my siblings and playing video games. I am a originally from Southern California, and am currently a student at BYU studying computer science.
 
+![Chase's Profile Picture](https://raw.githubusercontent.com/artmouse155/artmouse155.github.io/refs/heads/main/chase_odom.jpg)
+
 # Personal Projects
 
 ## Past projects
@@ -23,4 +25,15 @@ I also created an [Interactive Journal](https://github.com/artmouse155/univ_101_
 I am currently building a [Chess Application](https://github.com/artmouse155/chess) in my Advanced Software Construction class. Image coming soon - for now, enjoy this picture of a chess board by [Rayyan Masood](https://unsplash.com/@rynmasood)!
 
 <img width="1074" height="805" alt="image" src="https://github.com/user-attachments/assets/c9cf45d3-0134-4bb3-a09b-f7064867dc3a" />
- 
+
+ # Favorite things
+ - **Favorite song:** "On and On" by Curtis Harding
+ - **Favorite food:** Pulled Pork Sandwich
+ - **Favorite holiday:** Christmas
+ - **Favorite TV show:** Studio C
+ - **Favorite ice cream flavor:** Strawberry Cheesecake
+
+ # Random Tidbits
+
+ Here is a voltaic coil solution that I built in Opus Magnum.
+ ![Opus Magnum GIF](https://raw.githubusercontent.com/artmouse155/artmouse155.github.io/refs/heads/main/Opus%20Magnum%20-%20Voltaic%20Coil%20(535G%2C%2057%2C%2095%2C%202022-08-03-14-25-46).gif)
